@@ -1,4 +1,4 @@
-# Create Two Original 2D Artwork Submission
+# Create Two Original 3D Artwork Submission
 
 - Download [Blender](https://www.blender.org/download/) or [Maya3D](https://www.autodesk.com/products/maya/free-trial)
 
